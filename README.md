@@ -1,2 +1,3 @@
-# DisenoProyectosTest
-Tutorial para creación de trabajo colaborativo y control de cambios
+# Proyecto Beatriz González
+
+Proyecto en desarrollo dek archivo de Beatriz González
